@@ -1,0 +1,60 @@
+
+op#userID#password  
+Ex: op#%to%#12345
+This optimizes your account by scanning and removing  lagging/jamming elements
+---
+scan#userID#password
+Ex: scan#%to%#12345
+Scans and removes Upd, payu and other hacking  threats. The more you scan the more you are  protected!
+---
+adc#userID#password 
+Ex: adc#%to%#12345
+If you are under Dc attacks, this will give complete  protection against the attack. Only use when needed.  use dis#ID to  unprotect.
+---
+dis#user
+Ex: dis#%to%
+This will unprotect account with anti-dc (you must  have protected that account from your account).<>
+---|
+fwrd#userID#password#resource
+Ex: fwrd#nizzcserver#12345#Android<>
+If you have several accounts, you can connect them to  your account %to% and use them from your account %to%  without logging  them. To see how this works please  read here https://nizzc.com/forwarder
+---
+trns#user1#password:user2#password
+Ex: trns#%to%#12345:nizzcserver#54321
+You can send all friends in your account to another  account, from that account to your account or between  another accounts.  user1 is FROM(account) and user2  is TO(account)
+---
+mta#user#password#resource#message
+Ex: mta#%to%#12345#Android#Hi all, this is a testing  message
+You can send a message to all friends in your account  or another account.
+---|
+crt#ID#password#resource
+Ex: crt#nizzcserver#12345#Nimbuzzdesktop
+ - To create new child bot
+---
+
+ent#BotID#password#roomname
+Ex: ent#nizzcserver#12345#nimbuzzroom
+Joins new bot to your rooms with complete room  managements, pro-active protections (anti-payu and  anti-freezer included),   quiz, games and user  assistance services. use HELP or HELP/1 to HELP/27  and TAG/1 to TAG/5 for tags. also your room users can   use HELP or HLP/1 to HLP/9
+---
+if room is password protected use:
+entp#BotID#password#roomname#RoomPassword
+---|
+
+cont#message
+Ex: cont#hi admin, how are you?
+Use this command if you want to contact the  admin/master/owner of this bot.
+---
+share#user
+Ex: share#nissuna
+Use this command to share/suggest this with your  friends.
+---
+#cpanel
+Use this command to manage this bot if you are  owner/master
+---
+INFO - for bot information.
+ABOUT - about this application.
+
+You can download this bot in your computer and make  your own bots. If you don't have VPS or your 24/7  turned on computer,  you can connect to our computers  and your bot will never get offline even when you  turn off your computer.
+To learn how, please read here  https://nizzc.com/freenet
+To download go to https://nizzc.com/#msg-box8-t
+---------

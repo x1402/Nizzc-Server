@@ -1,0 +1,94 @@
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Commands.resx
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Commands.cs
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Commands.Designer.cs
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe.config
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe.manifest
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.application
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.pdb
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Interop.MSTSCLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Interop.RDPCOMAPILib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Interop.SHDocVw.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\Interop.WMPLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\AxInterop.MSTSCLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\AxInterop.RDPCOMAPILib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\bin\Debug\AxInterop.WMPLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\ResolveAssemblyReference.cache
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Interop.MSTSCLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Interop.SHDocVw.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Interop.WMPLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.MSTSCLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.WMPLib.dll
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc.csproj.ResolveComReference.cache
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Commands.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.ContactUs.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Help.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.commandchange.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.HelpForm.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Locker.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Lock.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.messagechangng.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.tags.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Ser.Form1.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Form3.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Form4.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.loading.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.NetworkComfirmer.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.Properties.Resources.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Quiz.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.UpdateMybot.resources
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc.csproj.GenerateResource.Cache
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.TrustInfo.xml
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.exe.manifest
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.application
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.exe
+A:\Nizzc\Nizzc Mobile Server\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.pdb
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe.config
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.exe
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.pdb
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Commands.resx
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Commands.cs
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Commands.Designer.cs
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe.manifest
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.application
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.exe
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Nizzc Mobile Server.pdb
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Interop.SHDocVw.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Commands.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.ContactUs.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Help.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.commandchange.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.HelpForm.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Locker.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Lock.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.messagechangng.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.tags.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Ser.Form1.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Form3.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Form4.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.loading.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.NetworkComfirmer.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.Properties.Resources.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Collection.Quiz.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc_Mobile_Server.UpdateMybot.resources
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.TrustInfo.xml
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.exe.manifest
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\Nizzc Mobile Server.application
+C:\Users\user\Desktop\Nizzc Mobile Server Source\Nizzc Mobile Server Project\obj\x86\Debug\ResolveAssemblyReference.cache

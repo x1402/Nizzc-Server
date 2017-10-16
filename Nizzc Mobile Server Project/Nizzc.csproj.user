@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\user\Desktop\Myapp\|C:\Users\user\Desktop\Myapp\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://nizzc.com/|http://nizzc.com/</InstallUrlHistory>
+    <SupportUrlHistory>http://nizzc.com/support</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>http://nizzc.com/error</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

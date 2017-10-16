@@ -1,0 +1,20 @@
+Use tag/1 to tag/5
+|
+%user% - current user to whom bot is talking
+%room% - current room
+%L% - New line
+|
+%num% - current shout game number
+%amount% - how much something costs
+|
+%msg% - the message that is being talked about
+%ID% - The onheld ID(only for main bot)
+|
+%word% -  the detected word or message (only for bad-language)
+%n% - @nimbuzz.com
+|
+%master% - bot master(only the owner)
+%rl% - user's role in room(only for welcomer)
+%aff% - user's affiliation in room(only for welcomer)
+|
+That is all!

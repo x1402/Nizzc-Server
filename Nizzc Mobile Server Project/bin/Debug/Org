@@ -1,0 +1,62 @@
+[MESSAGE]$This account is already protected.
+[MESSAGE]$Securing...Please wait.$Waiting for server response...$Your account is protected successfuly. %L% Thank you for choosing us...
+[MESSAGE]$These are accounts that our users of this Application posted in our database and they are succcessfuly protected.
+[MESSAGE]$All protections for your account(s) are handled by our uptime server.
+[MESSAGE]$Thank you for registering. %L% Now you can access this bot with this account %L% %user% %L% Welcome to new world!
+[MESSAGE]$Invalid information! %L% Please check the activation code and try again.
+[MESSAGE]$All Protections are ON! %L%%L% Send 'PROTECTION' to see Protections offered.
+[MESSAGE]$ATTENTION NEEDED!!! %L% %L%Some protections are not turned on. %L%%L% Please contact the bot administrator(s) to enable them.
+[MESSAGE]$Bot status is changed to ONLINE
+[MESSAGE]$Bot status is changed to AWAY
+[MESSAGE]$Bot status is changed to BUSY 
+[MESSAGE]$Hosting option is not enabled! %L%%L%To enable send 'host/on'
+[MESSAGE]$your bot has been successfuly hosted. %L%%L% Send 'cpanel'to your bot to administer.
+[MESSAGE]$Your bot is being hosted. Please wait...
+[MESSAGE]$you are not registered. To register Send 'HOST'
+[MESSAGE]$Invalid credential: %L% %thisid% %L% Invalid Username or Password.
+[MESSAGE]$Connected :%L% %ID% ...
+[MESSAGE]$Please Wait...
+[MESSAGE]$Connected.
+[MESSAGE]$Connecting...
+[MESSAGE]$Please check your command!
+[MESSAGE]$Please while connecting...
+[MESSAGE]$Access granted!
+[MESSAGE]$This account is already administrator!
+[MESSAGE]$Invalid credentials!
+[MESSAGE]$We sent the command to your bot. NOTE that if this account is logged in by another person(you, for instant), he will recieve your command with the password. So please be careful!
+[MESSAGE]$You have been added to administrators list. \nSend 'cpanel' to manage.
+[MESSAGE]$Hi, %user% %L%Send 'HELP' to get started.
+[MESSAGE]$Disconnected!
+[MESSAGE]$This command is only for Administrator.%L%%L%You can administor by sending 'logout#password'".
+[MESSAGE]$It seems your bot application is running on our machine.%L%If Your bot is not running(online), it may caused by either error on disconnection attempt or password has been changed.%L% To reconnect your bot please send recon#oldID#oldPassword
+[MESSAGE]$Protecting... This may take upto 10seconds
+[MESSAGE]$Protected Successfully!
+[MESSAGE]$Now Disconnecting from Online being...Please be patient.
+[MESSAGE]$Disconnected!%L%%L%Your account is protected successfully.
+[MESSAGE]$Forwarder activated!%L%%L%Any Message sent to '%ID%@nimbuzz.com' will be forwarded to your account '%user%@nimbuzz.com' %L%%L%to reply send "reply#id#message" where "id" is the ID of the person who you are about to reply to, "message" is the message you are going to send.
+[MESSAGE]$Message from %from%@nimbuzz.com %L%---------%L%%msg%%L%%L%Send "reply#%from%#message to reply to %from%@nimbuzz.com.
+[MESSAGE]$Message is sent to %to%@nimbuzz.com
+[MESSAGE]$Sorry your command is not complete.
+[MESSAGE]$Please wait while loading...
+[MESSAGE]$Your message has been transmitted successfuly and you will receive a copy of it.
+[MESSAGE]$Your account has been protected from add-flood.
+[MESSAGE]$Suspencious user has been detected %L%suspected ID: %suspectID% %L%Reason: %reason%.
+[MESSAGE]$%thisid%'s status is changed to %sts%.
+[MESSAGE]$%thisid%'s status message is changed to "%stm%".
+[MESSAGE]$Oops! There is technical error %error%. This could be caused by either our server is been over used or temporarily unavailable.
+[MESSAGE]$Your account has been removed from our server because of %reason%. Your account is unprotected now.
+[MESSAGE]$Oops! access denied %reason%. This can be caused by: %L% 1. You are banned from our server. %L% 2. Our stuffs rejected your request. %L% 3. Our server is disconnected from Nimbuzz Server Socket(NSS) %L% 4. Our server is under construction.  %L%%L% Please try again in a few seconds. If this problem persists, don't hesitate to contact our customer care.
+[MESSAGE]$Warning:  %L% %warn%
+[MESSAGE]$Alert alert!!!  %L%%L% UPd Injection detected from %IP%. We changed your password to "%pass%". %L% We may change your password randomly for better protection until the injection is fully blocked.  %L% Your password will be changed back when the Injection is fully blocked. 
+[MESSAGE]$Alert alert!!!  %L% %L% Huge PAyU attact is recieved and Blocked. You are under protection!
+[MESSAGE]$You are about to disconnect and your account is under attack! Please wait while we are Blocking the attact.%L% Are you insisting to disconnect still? %L%YES %L%NO %L% If you disconnect, the attacker may successfuly overpowers you. We would have recommended you not to disconnect now.
+[MESSAGE]$
+[MESSAGE]$
+[MESSAGE]$
+
+-----------------------
+to add new command text use this tag:
+"commandword$message"
+
+
+                             

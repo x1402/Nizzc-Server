@@ -1,0 +1,178 @@
+Use HL/1 to HL/62
+|
+kc/user - to kick a  user Ex: kc/ali
+bn/user - to ban a user Ex: bn/ali
+ubn/user - to unban a user Ex: ubn/ali
+|
+vs/user - to grant a user voiceless Ex: vs/ali
+pm/msg - to send private message Ex: pm/hi group
+ad/user - to grant adminship a user Ex: ad/ali
+|
+ow/user - to grant ownership a user Ex: ow/ali
+mm/user - to grant membership a user Ex: mm/ali
+umm/user -  to revoke membership Ex: umm/ali
+|
+md/user - to grant modship a user Ex: md/ali
+umd/user - to revoke modship Ex: umd/ali
+unv/user - to grant a user voice Ex: unv/ali
+|
+wl/on or off - to turn on/off welcomer
+wlmsg#message - to change welcomer message. send HELP/TAG to see tags Ex: wlmsg#Hi %user% welcome to %room%.
+|
+qz/on or off - to turn on/off quiz
+qzt#length - to change quiz question holder interval in seconds Ex: qzt#30
+|
+qzint#length - to change quiz question repetition interval in seconds Ex: qzint#5
+qzp#points - to change quiz question reward Ex: qzp#60
+|
+mlf/on or off - to turn on/off Message Line Filter
+mlflen#length - to change Message Line Filter length(be careful with this command) Ex: mlflen#10
+|
+show/mlflen - to show message line filter length limit
+autoadd/on or off - to turn on/off outo adder(turn off for better protection)
+|
+plt/on or off - to turn on/off penalty game(adaptive game)
+pltwp#points - to change penalty game reward if one wins Ex: pltwp#50
+|
+pltsp#points - to change penalty game reward if the players come draw Ex: pltsp#20
+kick - to kick a penalty game(only works for the players)
+|
+abort#penalty - to terminate on progress penalty game(accepted from only masters and game starter)
+penalty#user1#user2 - to start a penalty game Ex: penalty#ali#nissu
+|
+accept#penalty - to accept penalty game that you have been invited to play
+amsk/on or off - to turn on/off Admin, Master, Owner, Mod recognizer
+|
+fldr/on or off - to turn on/off Optimized Flood Recognizer(turn off to lessen suspection rate of 'sus/on')
+|
+rf/on or off - to turn on/off resource filter(very high sensitive, better to turn off to lessen detection rate)
+|
+autoban/on or off - to turn on/off Autobanner on joining(highly recommended to turn/off)
+autokick/on or off - to turn on/off autokicker on joining(highly recommended to turn off)
+|
+automute/on or off - to turn on/off automuter on joining(highly recommended to turn off)
+autoipban/on or off - to turn on/off auto IP banner on joining(highly recommended to turn off)
+|
+automem/on or off - to turn on/off automember on joining(better to turn off for protection purpose)
+trn/on or off - to turn on/off score transfer between your room and other rooms or between users in your room
+|
+tr#user#amount - to transfer some of your score points to your friend in same room Ex: tr#ali#500
+trns#amount - transfer your score points to another room Ex: trns#500
+|
+trnsto#user#amount - to send some of your score points to another person in another room Ex: trnsto#ali#500
+accept#trns - to accept score transfer from another room
+|
+mbm/on or off - to turn on/off Membering by room users(if you turn on this, all users in your room can use 'mem#user' to member a new user)
+|
+mem#user - to grant membership a user by a user('member by users should be turned on) Ex: mem#ali
+sln/on or off - to turn on/off silent mode (highly recommended to turn off this option)
+|
+lucky/on or off - to turn on/off lucky game
+lkn/on or off - to turn on/off Lucky game Notification (recommended to turn on)
+|
+lkmsg#message - to change lucky notification message Ex: lkmsg#Test your luck and tell which number i have between 0-5, you will receive %amount%score points.
+| 
+lcint#interval - to change lucky game notification interval in seconds Ex: lcint#60
+lkp#points - to change lucky game rewards Ex: lkp#40
+|
+rf/on or off - to turn on/off resource filter(very high sensitive, better to turn off to lessen detection rate)
+show/badr - to show bad resource list
+|
+badr#resource - to add bad resource to resource filter(this is very sensitive) Ex: badr#danger or badr#danger,flooder,hanger
+|
+reslen#length - to change resource filter length limit (be careful with this command) Ex: reslen#30
+dbadr#resource - to remove a resource from bad resource list Ex: dbadr#danger
+|
+show/reslen - to show resource filter length limit
+idf/on or off - to turn on/off ID Filter(flooders are automatically added here so turn on for better protection)
+|
+show/jidlen - to show ID filter length limit
+show/bjid - to show bad jid list
+|
+jidlen#length - to change ID filter length limit(be careful with this command) Ex: jidlen#30
+dbjid#id - to remove ID from bad ID list Ex: dbjid#ali
+|
+bjid#id - to add bad Id to bad jid list(flooders are added here automatically) Ex: bjid#ali or bjid#ali,noor,said
+|
+mf/on or off - to turn on/off Message Filter(turn on this option to sensor messages in realtime)
+show/msglen - to show message filter length limit
+|
+msglen#length - to change message filter length limit(be careful with this command) Ex: msglen#40
+badl/on or off - to turn on/off bad-language detection(needs your configuration - turn on this option)
+|
+badlw#phrase#action - to add bad word/phrase/sentence to bad-language list with its specified action. 0 = Warning, 1= Kick, 2 = Mute, 3 = Ban, 4 = Grant Voiceless
+|
+dbadlw#phrase - to delete a word/phrase/sentence from bad-language list Ex: dbadlw#fuck you
+badlmsg#message - to change bad-language warning message Ex: Dear %user%, %word% is not allowed in this %room%.
+|
+clear/badl - to clear all bad-langage lists
+show/badlw - to show bad language list
+|
+sus/on or off - to turn on/off Suspicion scanner on joining(turn on this to scan joining IDs for autogenerated flooding IDs in realtime)
+|
+akc/on or off - to turn on/off bot antikicker (turn on this, for bot to stay in room all times)
+akcmsg#message - to change anti-kick message  Ex: akcmsg#im here
+|
+akcint#interval - to change anti-kick interval in seconds Ex: akcint#120
+shout/on or off - to turn on/off shout game
+|
+shtn/on or off - to turn on/off shout game notification
+shoutmsg#message - to change shout game notification message
+|
+shtp#points - to change shout game reward Ex: shtp#20
+shint#interval - to change shout game notification interval in seconds Ex: shint#50
+|
+selfp/on or off - to turn on/off Self Protection of the bot from Disconnector, freezers(hangers) and payuers
+acp/on or off - to turn on/off Anti-capital in messages
+|
+acpmsg#message - to change anti-capital warning message Ex: Dear %user%, capital words are not allowed %L% Message: %msg%
+|
+acpa#action - to chnage Anti-capital action. 0 = warning, 1= kick, 2 = ban, 3 = mute
+|
+recog/on or off - to turn on/off Recognizer (This makes your bot intelligent machine for users - so turn on)
+show/rec - to show recognizer list
+|
+rec#phrase#respond - to add a phrase/word/sentence/question to the recognizer Ex: rec#anyone here#Yes %user% im here
+|
+clear/rec - to clear all recognized words/phrases/sentences/question in recognizer's list
+|
+drec#phrase - to remove a recognized word/phrase/sentence/question from recognizer Ex: drec#anyone here
+|
+#scan  - To scan your room for Freezers and Payu carriers. Only use this option when your room is about to get hanged(freezed) or when you feel payu senses.
+|
+antipayu/on or off - to turn on/off payu and freeze protections
+buy/bomb#amount - to buy bombs with your score points Ex: buy/bomb#5
+|
+buy/bprot#amount - to buy bomb shields with your score points Ex: buy/bprot#5
+bmc#points - to change how many points does a bomb cost Ex: bmc#750
+|
+bshc#points - to change how many points does a bomb sheild cost Ex: bshc#500
+show/mybomb - to check how many bombs you have
+|
+show/mybprot - to check how many bomb shields you have
+bm#user - to bomb a user out if you have bombs Ex: bm#ali
+|
+am#user - to make a user bot master (use comma (,) to separate if more than 1master)  Ex: am#ali or am#ali,farah,noor
+|
+dm/master - to delete a user from masters list Ex: dm#ali
+show/master - to show current bot masters
+|
+#rep+ - to subscribe room activity reporter
+#rep- - to unsubscribe room activity reporter
+|
+rew#user#amount - to reward a user new score points Ex: rew#ali#1000
+show/users - to show current users in room
+|
+love#user1:user2 - calculate loves between two persons(this is imagination) Ex: love#nissu:nasta
+show/myscore - to show score points you have
+|
+#backup - saves your room information on our server for future restore in your room
+|
+#update - checks and downloads backup file on our server for your room to restore information backed up last time with '#backup' or '#logout' commands
+|
+#restore - restores information from last downloaded backup file for your room
+#logout - saves current session in both local and on server and then logs out your bot.
+|
+#reset - to reset your bot to default and restart.
+|
+That is all! if you have bugs or suggestions, please send to 'team@nizzc.com'
